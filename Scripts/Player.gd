@@ -37,6 +37,6 @@ func _fixed_process(delta):
 func GetFriction():
 	return drag
 	
-func GetAcceleration():
+func GetAcceleration(): 
 	return speed * drag
 	

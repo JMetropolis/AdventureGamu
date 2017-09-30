@@ -7,7 +7,8 @@
 
 [node name="TileMap" type="TileMap" parent="."]
 
-position = Vector2( -230, 0 )
+visible = false
+position = Vector2( -301.676, 0 )
 z = -1
 mode = 0
 tile_set = ExtResource( 1 )
@@ -28,7 +29,7 @@ _sections_unfolded = [ "Cell", "Transform", "Z" ]
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
 
-position = Vector2( 379, 269 )
+position = Vector2( 864.979, 281.303 )
 scale = Vector2( 0.96875, 0.96875 )
 
 
