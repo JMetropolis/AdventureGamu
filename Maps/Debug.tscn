@@ -7,7 +7,6 @@
 
 [node name="TileMap" type="TileMap" parent="."]
 
-visible = false
 position = Vector2( -301.676, 0 )
 z = -1
 mode = 0
